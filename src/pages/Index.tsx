@@ -47,6 +47,13 @@ const Index = () => {
 
       <section className="pt-32 pb-20 px-6">
         <div className="container mx-auto max-w-6xl">
+          <div className="mb-12 flex justify-center animate-fade-in">
+            <img 
+              src="https://cdn.poehali.dev/projects/507ab51e-00e8-4338-b5b3-dbd83dd06111/files/4275e84f-a7b5-4fd1-89db-fae717f7e584.jpg" 
+              alt="Вывеска Кафе Гараж" 
+              className="rounded-2xl shadow-2xl max-w-2xl w-full h-[300px] object-cover"
+            />
+          </div>
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6 animate-fade-in">
               <h2 className="text-6xl font-bold font-serif text-foreground leading-tight">
