@@ -36,7 +36,7 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
         <div className="container mx-auto px-6 py-4 flex justify-between items-center">
-          <h1 className="text-3xl font-bold font-serif text-primary">Кафе Гараж</h1>
+          <h1 className="text-3xl font-bold font-serif text-primary">У Пчелинцева</h1>
           <div className="flex gap-8">
             <a href="#about" className="text-foreground hover:text-primary transition-colors">О нас</a>
             <a href="#gallery" className="text-foreground hover:text-primary transition-colors">Галерея</a>
@@ -49,8 +49,8 @@ const Index = () => {
         <div className="container mx-auto max-w-6xl">
           <div className="mb-12 flex justify-center animate-fade-in">
             <img 
-              src="https://cdn.poehali.dev/projects/507ab51e-00e8-4338-b5b3-dbd83dd06111/files/4275e84f-a7b5-4fd1-89db-fae717f7e584.jpg" 
-              alt="Вывеска Кафе Гараж" 
+              src="https://cdn.poehali.dev/projects/507ab51e-00e8-4338-b5b3-dbd83dd06111/files/cdad8ff7-432f-493c-bce5-27946df3f555.jpg" 
+              alt="Вывеска У Пчелинцева" 
               className="rounded-2xl shadow-2xl max-w-2xl w-full h-[300px] object-cover"
             />
           </div>
